@@ -20,7 +20,7 @@ Fitur yang harus ada adalah CRUD (Create, Read, Update, Delete).
 
 ## Cara Menjalankan
 
-1. Import database dari file `database_backup.sql` ke phpMyAdmin
+1. Import database dari file `uts_perpustakaan_[60324053].sql` ke phpMyAdmin
 2. Jalankan XAMPP atau Laragon (aktifkan Apache & MySQL)
 3. Simpan folder project di dalam `htdocs`
 4. Akses di browser:
