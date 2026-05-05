@@ -36,4 +36,4 @@ Fitur yang harus ada adalah CRUD (Create, Read, Update, Delete).
 
 ## Link Repository
 
-https://github.com/username/uts-pemrograman-web-2-60324053
+https://github.com/dwintaaviviian-spec/uts-pemrograman-web-2--60324053-
